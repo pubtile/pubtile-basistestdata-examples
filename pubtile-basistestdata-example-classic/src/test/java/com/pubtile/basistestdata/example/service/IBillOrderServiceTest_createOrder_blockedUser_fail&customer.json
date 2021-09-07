@@ -1,0 +1,12 @@
+[
+  {
+    "pn": "id",
+    "pv": 1,
+    "cells": [
+      {
+        "c":"status",
+        "v":"BLOCKED"
+      }
+    ]
+  }
+]
